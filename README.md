@@ -14,3 +14,4 @@ Olivia is an AWS solutions architect (SA) who recently moved to the downtown are
 ![Screenshot (6)](https://github.com/Tch-22zero5/AWS-Architect-for-Cafe/assets/140101993/91a623c6-cd7e-4570-be38-6a3b8d6a8412)
 
 In this project, you gain experience in creating and configuring AWS resources in the different AWS service areas and hands-on practice building on AWS. The challenges present new business requirements that are based on the evolving needs of the café. you will be challenged to apply the skills that you gained and the concepts. In the challenge, you take on the role of Sofía or Nikhil. With the assistance of the AWS consultants who occasionally pass through the café offering advice, you will architect cloud solutions that help fulfill the business needs of the café. 
+# VERY IMPORTANT NOTICE: PLEASE CHECK OUT OTHER REPOS FOR MORE AWS AND MULTI-CLOUD PROJECTS.
